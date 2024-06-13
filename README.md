@@ -62,8 +62,6 @@ Explore os recursos do Copilot e pratique no Codespaces para aprimorar suas habi
 
 ---
 
-Espero que esta estrutura organizada em módulos torne o conteúdo mais claro e acessível. Se precisar de mais detalhes ou exemplos, estou à disposição para ajudar!
-
 Vou detalhar mais sobre o conteúdo do projeto que envolve o uso do **GitHub Copilot** e **GitHub Codespaces** para solucionar algoritmos em Python.
 
 ---
